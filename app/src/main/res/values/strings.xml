@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom Fragment</string>
+    <string name="expense">Expense</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="income">Income</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
